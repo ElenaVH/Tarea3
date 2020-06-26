@@ -86,3 +86,10 @@ Si el valor del coeficiente de correlación es cero, indicaría que no existe un
 
 ## 4. Graficar las funciones de densidad marginales (2D), la función de densidad conjunta (3D):
 
+Se muestran las gráficas solicitadas:
+
+![alt text 3](imagenes/modelo_x.png)
+
+![alt text 4](imagenes/modelo_y.png)
+
+![alt text 5](imagenes/dens_conjunta.png)
